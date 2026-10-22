@@ -11,8 +11,8 @@
     "showPopupAlertTagihanInDisplayPoli": false,
     "hidePemanggilanPoli": false,
     "hidePemanggilanResepsionis": false,
-    "blockPrintResepApotek": true,
-    "blockPrintTiketResepsionis": true
+    "blockPrintResepApotek": false,
+    "blockPrintTiketResepsionis": false
   },
   {
     "kodefaskes": "11710300032",
