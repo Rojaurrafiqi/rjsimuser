@@ -2,8 +2,8 @@
   {
     "kodefaskes": "11710300001",
     "namafaskes": "KLINIK UTAMA CEMPAKA LIMA",
-    "showPopupAlertTagihanInResepsionis": true,
-    "showPopupAlertTagihanInApotek": true,
+    "showPopupAlertTagihanInResepsionis": false,
+    "showPopupAlertTagihanInApotek": false,
     "showPopupAlertTagihanInGudang": false,
     "showPopupAlertTagihanInDisplayResepsionis": false,
     "dateWarningAlert": "2026-10-22",
