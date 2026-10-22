@@ -1,6 +1,6 @@
 [
   {
-    "kodefaskes": "1000270497",
+    "kodefaskes": "11710300001",
     "namafaskes": "KLINIK UTAMA CEMPAKA LIMA",
     "showPopupAlertTagihanInResepsionis": false,
     "showPopupAlertTagihanInApotek": false,
@@ -11,11 +11,11 @@
     "showPopupAlertTagihanInDisplayPoli": false,
     "hidePemanggilanPoli": false,
     "hidePemanggilanResepsionis": false,
-    "blockPrintResepApotek": false,
+    "blockPrintResepApotek": true,
     "blockPrintTiketResepsionis": false
   },
   {
-    "kodefaskes": "1000270492",
+    "kodefaskes": "11710300032",
     "namafaskes": "KLINIK PRATAMA CEMPAKA LIMA",
     "showPopupAlertTagihanInResepsionis": false,
     "showPopupAlertTagihanInApotek": false,
@@ -30,7 +30,7 @@
     "blockPrintTiketResepsionis": false
   },
   {
-    "kodefaskes": "1000270490",
+    "kodefaskes": "1000270497",
     "namafaskes": "RSIA AZZAHRA",
     "showPopupAlertTagihanInResepsionis": false,
     "showPopupAlertTagihanInApotek": false,
