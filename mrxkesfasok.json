@@ -11,7 +11,7 @@
     "showPopupAlertTagihanInDisplayPoli": false,
     "hidePemanggilanPoli": false,
     "hidePemanggilanResepsionis": false,
-    "blockPrintResepApotek": false,
+    "blockPrintResepApotek": true,
     "blockPrintTiketResepsionis": false
   },
   {
