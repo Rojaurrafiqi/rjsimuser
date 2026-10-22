@@ -12,7 +12,7 @@
     "hidePemanggilanPoli": false,
     "hidePemanggilanResepsionis": false,
     "blockPrintResepApotek": true,
-    "blockPrintTiketResepsionis": false
+    "blockPrintTiketResepsionis": true
   },
   {
     "kodefaskes": "11710300032",
