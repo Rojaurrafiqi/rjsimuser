@@ -1,0 +1,47 @@
+[
+  {
+    "kodefaskes": "1000270497",
+    "namafaskes": "KLINIK UTAMA CEMPAKA LIMA",
+    "showPopupAlertTagihanInResepsionis": false,
+    "showPopupAlertTagihanInApotek": false,
+    "showPopupAlertTagihanInGudang": false,
+    "showPopupAlertTagihanInDisplayResepsionis": true,
+    "dateWarningAlert": "2026-10-22",
+    "dateBlockAlert": "2026-10-22",
+    "showPopupAlertTagihanInDisplayPoli": false,
+    "hidePemanggilanPoli": false,
+    "hidePemanggilanResepsionis": false,
+    "blockPrintResepApotek": false,
+    "blockPrintTiketResepsionis": false
+  },
+  {
+    "kodefaskes": "1000270492",
+    "namafaskes": "KLINIK PRATAMA CEMPAKA LIMA",
+    "showPopupAlertTagihanInResepsionis": false,
+    "showPopupAlertTagihanInApotek": false,
+    "showPopupAlertTagihanInGudang": false,
+    "showPopupAlertTagihanInDisplayResepsionis": true,
+    "dateWarningAlert": "2026-10-22",
+    "dateBlockAlert": "2026-10-22",
+    "showPopupAlertTagihanInDisplayPoli": false,
+    "hidePemanggilanPoli": false,
+    "hidePemanggilanResepsionis": false,
+    "blockPrintResepApotek": false,
+    "blockPrintTiketResepsionis": false
+  },
+  {
+    "kodefaskes": "1000270490",
+    "namafaskes": "RSIA AZZAHRA",
+    "showPopupAlertTagihanInResepsionis": false,
+    "showPopupAlertTagihanInApotek": false,
+    "showPopupAlertTagihanInGudang": false,
+    "showPopupAlertTagihanInDisplayResepsionis": true,
+    "dateWarningAlert": "2026-10-22",
+    "dateBlockAlert": "2026-10-22",
+    "showPopupAlertTagihanInDisplayPoli": false,
+    "hidePemanggilanPoli": false,
+    "hidePemanggilanResepsionis": false,
+    "blockPrintResepApotek": false,
+    "blockPrintTiketResepsionis": false
+  }
+]
